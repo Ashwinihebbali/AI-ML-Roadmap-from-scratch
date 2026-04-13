@@ -6,7 +6,7 @@
 
 📚 These are a collection of the best free resources from YouTube and online courses, as well as other popular blogs and websites.
 
-## Contents
+## Content
 
 **Learning Pathway Modules**
 - [Module 0](#module-0---before-you-start) - Before You Start
